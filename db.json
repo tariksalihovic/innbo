@@ -1,4 +1,5 @@
-  {
+[  
+{
     "id": 534507413,
     "type": "MERCHANT",
     "receiptId": "fb0ragvw6yd4wc8mgr5qov1e3k6i8k6g",
@@ -186,3 +187,4 @@
     "footerText": "",
     "purchaseDateTimeZoneOffset": "+02:00"
   }
+]
