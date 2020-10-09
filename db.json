@@ -18,7 +18,7 @@
         {
           "receiptLineId": "x7re8ui4whcxyhl34zw2ockjn1uc4sd8",
           "lineNumber": 0,
-          "productNumber": "3800020491294",
+          "productNumber": "1",
           "name": "KIT KAT COOKIE DOUGH",
           "description": null,
           "count": 1.0,
@@ -34,7 +34,7 @@
         {
           "receiptLineId": "7p1tpf5d28ig1c3o9vzt29nu34eh75sx",
           "lineNumber": 1,
-          "productNumber": "3800020491294",
+          "productNumber": "2",
           "name": "KIT KAT COOKIE DOUGH",
           "description": null,
           "count": 1.0,
@@ -50,7 +50,7 @@
         {
           "receiptLineId": "e8j38lxff65z85t70wtkhcmcnis4p5xa",
           "lineNumber": 2,
-          "productNumber": "3800020423677",
+          "productNumber": "3",
           "name": "KIT KAT CHUNKY MILK",
           "description": null,
           "count": 1.0,
@@ -83,7 +83,7 @@
         {
           "receiptLineId": "x7re8ui4whcxyhl34zw2ockjn1uc4sd8",
           "lineNumber": 0,
-          "productNumber": "3800020491294",
+          "productNumber": "4",
           "name": "KIT KAT COOKIE DOUGH",
           "description": null,
           "count": 1.0,
@@ -99,7 +99,7 @@
         {
           "receiptLineId": "7p1tpf5d28ig1c3o9vzt29nu34eh75sx",
           "lineNumber": 1,
-          "productNumber": "3800020491294",
+          "productNumber": "5",
           "name": "KIT KAT COOKIE DOUGH",
           "description": null,
           "count": 1.0,
@@ -115,7 +115,7 @@
         {
           "receiptLineId": "e8j38lxff65z85t70wtkhcmcnis4p5xa",
           "lineNumber": 2,
-          "productNumber": "3800020423677",
+          "productNumber": "6",
           "name": "KIT KAT CHUNKY MILK",
           "description": null,
           "count": 1.0,
@@ -148,7 +148,7 @@
         {
           "receiptLineId": "x7re8ui4whcxyhl34zw2ockjn1uc4sd8",
           "lineNumber": 0,
-          "productNumber": "3800020491294",
+          "productNumber": "7",
           "name": "KIT KAT COOKIE DOUGH",
           "description": null,
           "count": 1.0,
@@ -164,7 +164,7 @@
         {
           "receiptLineId": "7p1tpf5d28ig1c3o9vzt29nu34eh75sx",
           "lineNumber": 1,
-          "productNumber": "3800020491294",
+          "productNumber": "8",
           "name": "KIT KAT COOKIE DOUGH",
           "description": null,
           "count": 1.0,
@@ -180,7 +180,7 @@
         {
           "receiptLineId": "e8j38lxff65z85t70wtkhcmcnis4p5xa",
           "lineNumber": 2,
-          "productNumber": "3800020423677",
+          "productNumber": "9",
           "name": "KIT KAT CHUNKY MILK",
           "description": null,
           "count": 1.0,
